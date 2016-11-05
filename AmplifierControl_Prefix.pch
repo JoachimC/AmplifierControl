@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'AmplifierControl' target in the 'AmplifierControl' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>18C96A80-FFB7-4C18-83B9-C4489ED16890</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Amp Control</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2AF8DFCA-54DF-441F-8E20-E6EE9BAED102</key>
+		<string>svn://svn.emeraldyew.co.uk/joachim/AmplifierControl</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Amp Control.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2AF8DFCA-54DF-441F-8E20-E6EE9BAED102</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>2AF8DFCA-54DF-441F-8E20-E6EE9BAED102</key>
+		<string>svn://svn.emeraldyew.co.uk/joachim</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://svn.emeraldyew.co.uk/joachim/AmplifierControl/Amp%20Control.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2AF8DFCA-54DF-441F-8E20-E6EE9BAED102</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2AF8DFCA-54DF-441F-8E20-E6EE9BAED102</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AmplifierControl</string>
+		</dict>
+	</array>
+</dict>
+</plist>
